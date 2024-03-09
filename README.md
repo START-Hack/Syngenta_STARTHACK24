@@ -1,4 +1,4 @@
-# <p align="center"> Syngenta </p>
+# <p align="center"> Syngenta Group </p>
 
 ## <p align="center"> Case Introduction: </p>
 
