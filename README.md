@@ -43,8 +43,7 @@ Participants are welcome to use any other publicly available datasets
 
 
 ##  <p align="center"> Resources: </p>
-- Lorem ipsum dolor sit amet
-- consectetur adipiscing elit
+Documentation for the various APIs and products permitted for use during the Hack is available here: https://github.com/syngenta/start-global-2024-api-docs 
 
 
 ## <p align="center"> Judging Criteria: </p>
