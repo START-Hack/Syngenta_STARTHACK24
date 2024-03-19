@@ -43,11 +43,11 @@ Participants are welcome to use any other publicly available datasets
 
 
 ##  <p align="center"> Resources: </p>
-Your team will be allocated a specific group number. To initiate the process, please use our [onboarding tool](https://syngenta.github.io/syngenta-start-global-hackathon-2024/) to officially register your team; ensure you select the correct group number designated to you. Upon registration, each team member will receive a welcome email that includes detailed instructions for accessing their Syngenta Cropwise Account. Within your account, you can proceed to create your virtual farm and fields using the Farm Settings application, tailoring it to your team’s specifications.
+Your team will be allocated a specific group number. To initiate the process, please use our [onboarding tool](https://syngenta.github.io/syngenta-start-global-hackathon-2024/) to officially register your team; ensure you select the correct group number designated to you. Upon registration, each team member will receive a welcome email that includes detailed instructions for accessing their Syngenta Cropwise Account. Within your account, you can proceed to create your virtual farm and fields using the [Farm Settings](https://app.cropwise.com/app/) application, tailoring it to your team’s specifications.
 
-Once your farm setup is complete, you will have the opportunity to utilize the suite of Cropwise applications, including Imagery, or use advanced API tools such as Remote Sensing, CE-Hub, or Insights Engine to build your project.
+Once your farm setup is complete, you will have the opportunity to utilize the suite of Cropwise applications, including [Cropwise Imagery](https://imagery.cropwise.com/), or use advanced API tools such as Remote Sensing, CE-Hub, or Insights Engine to build your project.
 
-Our main documentation hub is located at [Cropwise Hackathon Guide](https://syngenta.github.io/syngenta-start-global-hackathon-2024/guide.html). On this landing page, you’ll get access to a the API documentation, as well as direct links to the Cropwise Imagery application. Additionally, the guide elaborates on various image analysis tools at your disposal. We highly recommend familiarizing yourself with these materials to maximize your readiness for the hackathon.
+Our main documentation hub is located at [Cropwise Hackathon Guide](https://syngenta.github.io/syngenta-start-global-hackathon-2024/guide.html). On this landing page, you’ll get access to a the API documentation, as well as direct links to the [Cropwise Imagery application](https://imagery.cropwise.com/). Additionally, the guide elaborates on various image analysis tools at your disposal. We highly recommend familiarizing yourself with these materials to maximize your readiness for the hackathon.
 
 Below is an overview of the tools that you may use during the hack:
 
@@ -57,7 +57,7 @@ Below is an overview of the tools that you may use during the hack:
 
 - **Insights Engine**: Applies advanced algorithms and machine learning techniques to analyze and interpret weather patterns, soil conditions, crop health information, and satellite imagery. This assists growers in making more informed decisions about their farming practices.​ The Insights Engine API offers predictions on the optimal planting times, recommendations for fertilizers or pesticides, and early warnings for potential issues.
 
-You are also welcome to use any other public data set that consider relevant for the success of your project. 
+You are also welcome to use any other public dataset that consider relevant for the success of your project. 
 
 ## <p align="center"> Judging Criteria: </p>
 
