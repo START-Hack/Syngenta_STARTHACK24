@@ -47,7 +47,7 @@ Your team will be allocated a specific group number. To initiate the process, pl
 
 Once your farm setup is complete, you will have the opportunity to utilize the suite of Cropwise applications, including [Cropwise Imagery](https://imagery.cropwise.com/), or use advanced API tools such as Remote Sensing, CE-Hub, or Insights Engine to build your project.
 
-Our main documentation hub is located at [Cropwise Hackathon Guide](https://syngenta.github.io/syngenta-start-global-hackathon-2024/guide.html). On this landing page, you’ll get access to a the API documentation, as well as direct links to the [Cropwise Imagery application](https://imagery.cropwise.com/). Additionally, the guide elaborates on various image analysis tools at your disposal. We highly recommend familiarizing yourself with these materials to maximize your readiness for the hackathon.
+Our main documentation hub is located at [Cropwise Hackathon Guide](https://syngenta.github.io/syngenta-start-global-hackathon-2024/guide.html). On this landing page, you’ll get access to the API documentation, as well as direct links to the [Cropwise Imagery application](https://imagery.cropwise.com/). Additionally, the guide elaborates on various image analysis tools at your disposal. We highly recommend familiarizing yourself with these materials to maximize your readiness for the hackathon.
 
 Below is an overview of the tools that you may use during the hack:
 
