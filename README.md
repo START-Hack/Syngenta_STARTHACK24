@@ -20,10 +20,6 @@ Food consumers (the general public), policymakers and educators
 
 Optionally: Farmers, ag retailers, agronomists etc. in ‘expert mode’ 
 
-## <p align="center"> The Pitch: </p>
-
-<p align="center"> Insert Pitchdeck here </p>
-
 ## <p align="center"> Deep Dive Slides: </p>
 
 <p align="center"> Deep Dive Slides: https://github.com/START-Hack/Syngenta_STARTHACK24/blob/main/Syngenta-Hack.pdf </p>
