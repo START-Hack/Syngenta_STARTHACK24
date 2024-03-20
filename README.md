@@ -83,4 +83,4 @@ Onboarding process:
 ## <p align="center"> Prize - the winning team members will each receive: </p>
 The winning team will receive a trip to Madrid, including a tour of Syngenta’s Digital office in the city followed by an opportunity to meet some of our farmers customers in the region. The trip will provide a unique insight into agriculture and technology as well as a chance to try some delicious locally produced food and wine! Flights to Madrid and accommodation will be provided.  
 
-### Prize Name
+
