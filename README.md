@@ -43,6 +43,17 @@ Participants are welcome to use any other publicly available datasets
 
 
 ##  <p align="center"> Resources: </p>
+Below is an overview of the tools that you may use during the hack:
+
+- **Cropwise Imagery**: Provides advanced satellite and aerial imaging to monitor crop health. By utilizing the Imagery application or the Remote Sensing API, growers can leverage specialized analytics to detect variations in the field that are invisible to the naked eye. This provides insights into crop vigor and helps identify issues early on, enabling more informed agronomic decisions.​
+
+- **CE-Hub**: Provides a central access point for environmental data associated with time and geographical coordinates. Through well-defined APIs, it is possible to obtain historical weather data, vegetation health information, soil characteristics, land use, and topography.​ [Documentation](https://github.com/syngenta/syngenta-start-global-hackathon-2024/blob/main/docs/api/ce%20hub/CEHub%20API%20Service%20Specification.docx) and [Video Tutorial](https://github.com/syngenta/syngenta-start-global-hackathon-2024/blob/main/docs/api/ce%20hub/GMT20240319-133726_Recording_1920x1080.mp4)
+
+- **Insights Engine**: Applies advanced algorithms and machine learning techniques to analyze and interpret weather patterns, soil conditions, crop health information, and satellite imagery. This assists growers in making more informed decisions about their farming practices.​ The Insights Engine API offers predictions on the optimal planting times, recommendations for fertilizers or pesticides, and early warnings for potential issues.[Documentation](https://github.com/syngenta/syngenta-start-global-hackathon-2024/blob/main/docs/api/insights%20engine/Insights%20Engine%20API%20Service%20Specification%20v3.0.docx) and [Video Tutorial](https://github.com/syngenta/syngenta-start-global-hackathon-2024/blob/main/docs/api/insights%20engine/GMT20240319-080707_Recording_1920x1080.mp4); 
+
+You are also welcome to use any other public dataset that consider relevant for the success of your project. 
+
+Onboarding process: 
 1. Your team will be allocated a specific group number. Come to our booth to get the group number for your team. You will also reveive at that time a specific API token to access the CEHub API.
 
 2. To initiate the onboarding process, please use our [onboarding tool](https://syngenta.github.io/syngenta-start-global-hackathon-2024/) to officially register your team; ensure you select the correct group number designated to you.
@@ -55,15 +66,6 @@ Participants are welcome to use any other publicly available datasets
 
 7. Our main documentation hub is located at [Cropwise Hackathon Guide](https://syngenta.github.io/syngenta-start-global-hackathon-2024/guide.html). On this landing page, you’ll get access to the [API documentation](https://github.com/syngenta/syngenta-start-global-hackathon-2024), as well as direct links to the [Cropwise Imagery application](https://imagery.cropwise.com/). Additionally, the guide elaborates on various image analysis tools at your disposal. We highly recommend familiarizing yourself with these materials to maximize your readiness for the hackathon.
 
-8. Below is an overview of the tools that you may use during the hack:
-
-- **Cropwise Imagery**: Provides advanced satellite and aerial imaging to monitor crop health. By utilizing the Imagery application or the Remote Sensing API, growers can leverage specialized analytics to detect variations in the field that are invisible to the naked eye. This provides insights into crop vigor and helps identify issues early on, enabling more informed agronomic decisions.​
-
-- **CE-Hub**: Provides a central access point for environmental data associated with time and geographical coordinates. Through well-defined APIs, it is possible to obtain historical weather data, vegetation health information, soil characteristics, land use, and topography.​ [Documentation](https://github.com/syngenta/syngenta-start-global-hackathon-2024/blob/main/docs/api/ce%20hub/CEHub%20API%20Service%20Specification.docx) and [Video Tutorial](https://github.com/syngenta/syngenta-start-global-hackathon-2024/blob/main/docs/api/ce%20hub/GMT20240319-133726_Recording_1920x1080.mp4)
-
-- **Insights Engine**: Applies advanced algorithms and machine learning techniques to analyze and interpret weather patterns, soil conditions, crop health information, and satellite imagery. This assists growers in making more informed decisions about their farming practices.​ The Insights Engine API offers predictions on the optimal planting times, recommendations for fertilizers or pesticides, and early warnings for potential issues.[Documentation](https://github.com/syngenta/syngenta-start-global-hackathon-2024/blob/main/docs/api/insights%20engine/Insights%20Engine%20API%20Service%20Specification%20v3.0.docx) and [Video Tutorial](https://github.com/syngenta/syngenta-start-global-hackathon-2024/blob/main/docs/api/insights%20engine/GMT20240319-080707_Recording_1920x1080.mp4); 
-
-7. You are also welcome to use any other public dataset that consider relevant for the success of your project. 
 
 ## <p align="center"> Judging Criteria: </p>
 
