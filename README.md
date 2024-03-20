@@ -26,7 +26,7 @@ Optionally: Farmers, ag retailers, agronomists etc. in ‘expert mode’
 
 ## <p align="center"> Deep Dive Slides: </p>
 
-<p align="center"> [Deep Dive Slides](https://github.com/START-Hack/Syngenta_STARTHACK24/blob/main/Syngenta-Hack.pdf) </p>
+<p align="center"> Deep Dive Slides: https://github.com/START-Hack/Syngenta_STARTHACK24/blob/main/Syngenta-Hack.pdf </p>
 
 ## <p align="center"> Further Information: </p>
 
