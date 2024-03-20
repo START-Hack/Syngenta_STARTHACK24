@@ -54,7 +54,7 @@ Below is an overview of the tools that you may use during the hack:
 You are also welcome to use any other public dataset that consider relevant for the success of your project. 
 
 Onboarding process: 
-1. Your team will be allocated a specific group number. Come to our booth to get the group number for your team. You will also reveive at that time a specific API token to access the CEHub API.
+1. Your team will be allocated a specific group number. Please come to our booth at the beginning of the Hack in order to get the group number for your team. You will also reveive at that time a specific API token to access the CEHub API.
 
 2. To initiate the onboarding process, please use our [onboarding tool](https://syngenta.github.io/syngenta-start-global-hackathon-2024/) to officially register your team; ensure you select the correct group number designated to you.
 
